@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="chem_util",
-    version="0.0.3",
+    version="0.0.4",
     author="Robert F. De Jaco",
     author_email="dejac001@umn.edu",
     description="Random Chemistry/Chemical Engineering Utilities",
